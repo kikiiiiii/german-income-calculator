@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/german-income-calculator/static/css/main.ca1f316c.css",
-    "main.js": "/german-income-calculator/static/js/main.201669c9.js",
+    "main.js": "/german-income-calculator/static/js/main.ce28cba8.js",
     "static/js/453.0e3e36ca.chunk.js": "/german-income-calculator/static/js/453.0e3e36ca.chunk.js",
     "index.html": "/german-income-calculator/index.html",
     "main.ca1f316c.css.map": "/german-income-calculator/static/css/main.ca1f316c.css.map",
-    "main.201669c9.js.map": "/german-income-calculator/static/js/main.201669c9.js.map",
+    "main.ce28cba8.js.map": "/german-income-calculator/static/js/main.ce28cba8.js.map",
     "453.0e3e36ca.chunk.js.map": "/german-income-calculator/static/js/453.0e3e36ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca1f316c.css",
-    "static/js/main.201669c9.js"
+    "static/js/main.ce28cba8.js"
   ]
 }
